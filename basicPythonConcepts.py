@@ -1,4 +1,4 @@
-#notes in the code ignored by Python used to explain code.
+#comments are notes in the code ignored by Python used to explain code, to create a comment add a hashtag at the beginning.
 #this is a comment 
 #your name
 #your group
